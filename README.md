@@ -1,2 +1,2 @@
-# first_git_page
-a git page
+# git_learning
+so this is my first git page that i created
